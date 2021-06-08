@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DanielBourdetski
+- 👀 I’m interested in js and backend dev
+- 🌱 I’m currently learning fullstack at HackerU
+- 💞️ I’m looking to collaborate on small, non-profit projects to work on 
+- 📫 My email - Daniel.Bourdetski@gmail.com
